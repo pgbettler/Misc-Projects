@@ -1,0 +1,16 @@
+class Q1
+{
+    public static boolean power_of_two(int a)
+    {
+        // your code here
+        return false;
+    }
+}
+
+class Rextester
+{
+    public static void main(String[] args)
+    {
+       boolean ans = Q1.power_of_two(3);
+    }
+}
